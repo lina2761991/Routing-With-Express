@@ -11,7 +11,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "g": "^2.0.1",
-    "handlebars": "^4.7.2",
+    "handlebars": "^4.7.7",
     "handlebars-layouts": "^3.1.4",
     "hbs": "^4.1.0"
   }
